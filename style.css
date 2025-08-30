@@ -109,5 +109,8 @@ img {
 
 }
 
-.section
+.section {
+    display: flex;
+
+}
 
